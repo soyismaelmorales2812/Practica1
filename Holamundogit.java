@@ -45,7 +45,7 @@ public class Holamundogit {
 		frmGitMundo.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frmGitMundo.getContentPane().setLayout(null);
 		
-		JLabel lblNewLabel = new JLabel("xd ismael");
+		JLabel lblNewLabel = new JLabel("hsolaaaaa panico");
 		lblNewLabel.setFont(new Font("Tahoma", Font.BOLD, 37));
 		lblNewLabel.setBounds(10, 38, 414, 153);
 		frmGitMundo.getContentPane().add(lblNewLabel);
